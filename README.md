@@ -44,9 +44,9 @@ Dalam kegiatan pembuatan jurnal, terdapat berbagai tahap yang dilakukan pada keg
 
 ## 1. Tahap Pencarian Data (Crawling Data)
 
-Kegiatan Crawling Data dilakukan untuk mendapatkan data melalui kegiatan nyata.
+Kegiatan Crawling Data dilakukan untuk mendapatkan data melalui kegiatan nyata, sehingga didapatkan hasil pada eksplorasi data tersebut.
 
-## 2.  Sampling Data
+## 2. Sampling Data
 
 Sampling Data dilakukan untuk menyaring data sehingga didapatkan sampel data yang sedikit namun bersifat objektif, sehingga dapat menghemat waktu dan memudahkan dalam pengumpulan hasil data.
 
@@ -72,6 +72,6 @@ Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 
 ## Arsitektur Proses Sign Up
 
-Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses SignUp
+Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses SignUp.
 
 ![Flowmap SignUp](./image/Arsitektur%20Proses%20SignUp.png)
