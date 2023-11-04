@@ -30,7 +30,7 @@ Keywords: Aplication, Education, Automotive.
 
 Di era modern sekarang, segala aspek kehidupan tidak terlepas dengan teknologi. Baik dalam industri, maupun dalam kehidupan sehari-hari. Teknologi menjadi hal yang dibutuhkan bagi masyarakat yang berkehidupan modern, terlebih dalam informasi. Teknologi Informasi sudah menjadi kebutuhan sehari-hari bagi masyarakat, terdapat berbagai teknologi informasi yang hingga saat ini telah menjadi bagian penting dalam kehidupan sehari-hari tersebut.
 
-Teknologi Informasi sangat beragam bagi kebutuhan
+Terdapat berbagai teknologi informasi yang ada di era modern ini, berbagai media sosial telah mengimplementasikan teknologi ini. Namun, ketersediaan media yang disediakan dirasa sangat sedikit, terlebih dalam dunia otomotif yang masih terdengar awam bagi masyarakat.
 
 Dalam teknologi informasi dalam dunia otomotif, ada berbagai perilaku masyarakat yang berbeda dalam memandang dunia otomotif ini. Ada yang menggunakannya sebagai media informasi berbagi ilmu dalam otomotif, adapun mereka yang menggemari dunia otomotif ini hingga berbagi pengalaman mereka dalam hal tersebut, dan adapun mereka yang hanya mencari tahu bagaimana mereka dapat mencari jalan keluar dalam permasalahan kendaraan mereka melalui teknologi informasi teknologi tersebut.
 
@@ -69,3 +69,9 @@ Adapun Arsitektur Proses pada aplikasi seperti yang ditampilkan berikut :
 Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 
 ![Flowmap drawio](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/5fcd5228-4b51-4dd9-90a2-380d873d1af7)
+
+## Arsitektur Proses Sign Up
+
+Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses SignUp
+
+![Flowmap SignUp](./image/Arsitektur%20Proses%20SignUp.png)
