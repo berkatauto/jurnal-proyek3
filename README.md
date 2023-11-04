@@ -1,6 +1,11 @@
 # jurnal-proyek3
 
+# Abstrak
+Aplikasi pendidikan otomotif berbasis website merupakan proyek inovatif yang bertujuan untuk mengefektifkan pendidikan otomotif di era digital saat ini. Mengingat tantangan yang dihadapi siswa, seperti kurangnya akses terhadap materi pelajaran terkini dan kurangnya pengalaman praktis, aplikasi ini dirancang untuk mengatasi kendala tersebut. Berkat pendekatan gabungan teknologi Internet dan multimedia, aplikasi ini menyediakan platform pembelajaran yang kaya dan interaktif. Dengan cara ini, pengguna dapat dengan mudah mengakses materi pelatihan otomotif terkini dan relevan. Aplikasi ini tidak hanya memberikan pemahaman teoritis tentang konsep otomotif tetapi juga menawarkan simulasi realistis dan tes latihan yang memungkinkan  pengguna  mengasah keterampilan virtualnya.
 
+Salah satu aspek kunci dari aplikasi ini adalah kemampuannya untuk menciptakan komunitas pembelajar yang dinamis. Dengan menyediakan forum diskusi dan fitur kolaboratif lainnya, aplikasi ini memfasilitasi pertukaran ide dan pengalaman antara para pengguna. Hal ini tidak hanya meningkatkan pemahaman mereka, tetapi juga membangun jaringan profesional yang berharga di dunia otomotif. Dengan menyatukan aspek edukatif dan sosial, Aplikasi Pendidikan Otomotif Berbasis Website bukan hanya sekadar alat pembelajaran, tetapi juga menjadi wadah bagi pengguna untuk mengembangkan diri mereka secara holistik. Dengan demikian, aplikasi ini tidak hanya membantu mengisi kesenjangan antara kebutuhan industri otomotif yang terus berkembang dan keterampilan yang dimiliki oleh para profesional di lapangan, tetapi juga merangsang minat dan semangat dalam bidang otomotif di kalangan para pembelajar.
+
+Kata Kunci : Aplikasi, Pendidikan, Otomotif.
 
 # Abstact
 
