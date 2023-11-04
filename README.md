@@ -14,3 +14,7 @@ The web-based automotive education app is an innovative project that aims to str
 One of the key aspects of this app is its ability to create a vibrant community of learners. By providing discussion forums and other collaborative features, the app facilitates the exchange of ideas and experiences between users. This not only enhances their understanding, but also builds a valuable network of professionals in the automotive world. By bringing together the educational and social aspects, the Web-based Automotive Education App is not just a learning tool, but also a platform for users to develop themselves holistically. As such, it not only helps fill the gap between the ever-growing needs of the automotive industry and the skills possessed by professionals in the field, but also stimulates interest and passion in the automotive field among learners.
 
 Keywords: Aplication, Education, Automotive.
+
+# Flowmap Login 
+
+![Flowmap drawio](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/5fcd5228-4b51-4dd9-90a2-380d873d1af7)
