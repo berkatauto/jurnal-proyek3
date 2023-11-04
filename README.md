@@ -62,13 +62,13 @@ Berikut adalah gambaran dari proses aplikasi yang berjalan berikut :
 
 ![Arsitektur Aplikasi](./image/Arsitektur%20Web.png)
 
-Adapun Arsitektur Proses pada aplikasi seperti yang ditampilkan berikut :
+Adapun Arsitektur Proses pada aplikasi yang telah di gambarkan kedalam flowmap berikut :
 
 ## Arsitektur Proses Login
 
 Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 
-![Flowmap drawio](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/5fcd5228-4b51-4dd9-90a2-380d873d1af7)
+![Flowmap Login](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/5fcd5228-4b51-4dd9-90a2-380d873d1af7)
 
 ## Arsitektur Proses Sign Up
 
