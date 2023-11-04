@@ -15,6 +15,36 @@ One of the key aspects of this app is its ability to create a vibrant community 
 
 Keywords: Aplication, Education, Automotive.
 
-# Flowmap Login 
+# Pendahuluan
+
+Di era modern sekarang, segala aspek kehidupan tidak terlepas dengan teknologi. Baik dalam k
+
+# Metodologi Penelitian
+
+Dalam kegiatan pembuatan jurnal, terdapat berbagai tahap yang dilakukan pada kegiatan ini.
+
+## 1. Tahap Pencarian Data (Crawling Data)
+
+Kegiatan Crawling Data dilakukan untuk mendapatkan data melalui kegiatan nyata.
+
+## 2.  Sampling Data
+
+Sampling Data dilakukan untuk menyaring data sehingga didapatkan sampel data yang sedikit namun bersifat objektif, sehingga dapat menghemat waktu dan memudahkan dalam pengumpulan hasil data.
+
+## 3. Pengumpulan Data
+
+Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehingga dapat memudahkan dalam memvisualisasi data.
+
+# Arsitektur Aplikasi
+
+Arsitektur pada aplikasi ini terdiri dari perhubungan antar komponen pengguna dengan aplikasi web yang memiliki akses dengan internet, dimana akses ini memungkinkan pengguna untuk mendapatkan informasi yang dibutuhkan dari server (data warehouse) terkait data pada aplikasi yang berjalan.
+
+Berikut adalah gambaran dari proses aplikasi yang berjalan berikut :
+
+
+
+## Arsitektur Proses Login
+
+Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 
 ![Flowmap drawio](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/5fcd5228-4b51-4dd9-90a2-380d873d1af7)
