@@ -36,7 +36,7 @@ Dalam teknologi informasi dalam dunia otomotif, ada berbagai perilaku masyarakat
 
 Oleh karenanya, adanya aplikasi Pendidikan Otomotif Sebagai Bagian dari teknologi informasi diharapkan menjadi pemudah dalam hubungan masyarakat yang menggemari dunia otomotif, sekaligus mereka yang ingin menemukan jalan keluar dalam dunia otomotif tersebut.
 
-Dalam Jurnal ini, kami pun ingin mencari tahu bagaimana perilaku masyarakat dalam menggunakan aplikasi web yang kami buat ini.
+Dalam Jurnal ini, kami pun ingin mencari tahu bagaimana perilaku masyarakat dalam menggunakan aplikasi web yang kami buat ini. Dan dengan adanya jurnal ini, kami dapat lebih tahu bagaimana pandangan masyarakat dalam dunia otomotif ini menggunakan media teknologi informasi sebagai jalan keluar bagi mereka.
 
 # Metodologi Penelitian
 
