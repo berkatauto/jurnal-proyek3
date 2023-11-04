@@ -2,7 +2,7 @@
 
 
 
-#Abstact
+## Abstact
 
 The web-based automotive education app is an innovative project that aims to streamline automotive education in today's digital age. Given the challenges students face, such as lack of access to up-to-date subject matter and lack of practical experience, this app is designed to overcome these obstacles. Thanks to its combined approach of Internet and multimedia technologies, the app provides a rich and interactive learning platform. In this way, users can easily access current and relevant automotive training materials. The app not only provides a theoretical understanding of automotive concepts but also offers realistic simulations and practice tests that allow users to hone their virtual skills.
 
