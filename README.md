@@ -1,4 +1,15 @@
-# jurnal-proyek3
+# Jurnal Aplikasi Proyek 3
+
+Quick View :
+
+[Abstrak](#abstrak)
+
+[Pendahuluan](#pendahuluan)
+
+[Metodologi Penelitian](#metodologi-penelitian)
+
+[Arsitektur Aplikasi](#arsitektur-aplikasi)
+
 
 # Abstrak
 Aplikasi pendidikan otomotif berbasis website merupakan proyek inovatif yang bertujuan untuk mengefektifkan pendidikan otomotif di era digital saat ini. Mengingat tantangan yang dihadapi siswa, seperti kurangnya akses terhadap materi pelajaran terkini dan kurangnya pengalaman praktis, aplikasi ini dirancang untuk mengatasi kendala tersebut. Berkat pendekatan gabungan teknologi Internet dan multimedia, aplikasi ini menyediakan platform pembelajaran yang kaya dan interaktif. Dengan cara ini, pengguna dapat dengan mudah mengakses materi pelatihan otomotif terkini dan relevan. Aplikasi ini tidak hanya memberikan pemahaman teoritis tentang konsep otomotif tetapi juga menawarkan simulasi realistis dan tes latihan yang memungkinkan  pengguna  mengasah keterampilan virtualnya.
@@ -17,7 +28,15 @@ Keywords: Aplication, Education, Automotive.
 
 # Pendahuluan
 
-Di era modern sekarang, segala aspek kehidupan tidak terlepas dengan teknologi. Baik dalam k
+Di era modern sekarang, segala aspek kehidupan tidak terlepas dengan teknologi. Baik dalam industri, maupun dalam kehidupan sehari-hari. Teknologi menjadi hal yang dibutuhkan bagi masyarakat yang berkehidupan modern, terlebih dalam informasi. Teknologi Informasi sudah menjadi kebutuhan sehari-hari bagi masyarakat, terdapat berbagai teknologi informasi yang hingga saat ini telah menjadi bagian penting dalam kehidupan sehari-hari tersebut.
+
+Teknologi Informasi sangat beragam bagi kebutuhan
+
+Dalam teknologi informasi dalam dunia otomotif, ada berbagai perilaku masyarakat yang berbeda dalam memandang dunia otomotif ini. Ada yang menggunakannya sebagai media informasi berbagi ilmu dalam otomotif, adapun mereka yang menggemari dunia otomotif ini hingga berbagi pengalaman mereka dalam hal tersebut, dan adapun mereka yang hanya mencari tahu bagaimana mereka dapat mencari jalan keluar dalam permasalahan kendaraan mereka melalui teknologi informasi teknologi tersebut.
+
+Oleh karenanya, adanya aplikasi Pendidikan Otomotif Sebagai Bagian dari teknologi informasi diharapkan menjadi pemudah dalam hubungan masyarakat yang menggemari dunia otomotif, sekaligus mereka yang ingin menemukan jalan keluar dalam dunia otomotif tersebut.
+
+Dalam Jurnal ini, kami pun ingin mencari tahu bagaimana perilaku masyarakat dalam menggunakan aplikasi web yang kami buat ini.
 
 # Metodologi Penelitian
 
@@ -37,11 +56,13 @@ Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehin
 
 # Arsitektur Aplikasi
 
-Arsitektur pada aplikasi ini terdiri dari perhubungan antar komponen pengguna dengan aplikasi web yang memiliki akses dengan internet, dimana akses ini memungkinkan pengguna untuk mendapatkan informasi yang dibutuhkan dari server (data warehouse) terkait data pada aplikasi yang berjalan.
+Arsitektur pada aplikasi ini terdiri dari perhubungan antar komponen pengguna dengan aplikasi web yang memiliki akses dengan internet, dimana akses ini memungkinkan pengguna untuk mendapatkan informasi yang dibutuhkan dari Database terkait data pada aplikasi yang berjalan.
 
 Berikut adalah gambaran dari proses aplikasi yang berjalan berikut :
 
+![Arsitektur Aplikasi](./image/Arsitektur%20Web.png)
 
+Adapun Arsitektur Proses pada aplikasi seperti yang ditampilkan berikut :
 
 ## Arsitektur Proses Login
 
