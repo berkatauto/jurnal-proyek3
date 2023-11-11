@@ -54,16 +54,16 @@ Pilih sumber-sumber data yang relevan dengan tujuan penelitian Anda. Sumber data
 2. Pilih dan Persiapkan Alat Crawling
 Pilih alat atau perangkat lunak crawling yang sesuai dengan kebutuhan Anda. Beberapa contoh alat termasuk Scrapy, BeautifulSoup, atau Selenium. Persiapkan alat ini dan sesuaikan dengan struktur dan tata letak sumber data.
 
-3. Lakukan Analisis Legal dan Etika:
+3. Lakukan Analisis Legal dan Etika
 Pastikan bahwa pengambilan data melalui crawling tidak melanggar hak cipta atau kebijakan privasi dari sumber data yang Anda tuju. Pertimbangkan etika dalam penggunaan data dan pastikan untuk memahami dan mematuhi aturan yang berlaku.
 
-Identifikasi Pola URL atau Struktur Data:
+4. Identifikasi Pola URL atau Struktur Data
 Pahami pola URL atau struktur data pada sumber yang akan Anda crawl. Ini membantu dalam membuat logika crawling yang efisien dan memastikan bahwa Anda mengambil data yang relevan.
 
-Konfigurasi Parameter Crawling:
+4. Konfigurasi Parameter Crawling:
 Atur parameter crawling, seperti batasan kecepatan crawling, kedalaman pengambilan data, dan jenis data yang ingin diambil. Hal ini membantu dalam menghindari overloading server dan memastikan efisiensi dalam pengumpulan data.
 
-Uji Coba Crawling:
+5. Uji Coba Crawling
 Sebelum melakukan crawling penuh, uji coba alat atau skrip Anda pada sejumlah kecil data atau halaman. Pastikan bahwa pengambilan data berjalan dengan baik dan sesuai dengan yang diinginkan.
 
 Lakukan Crawling Penuh:
