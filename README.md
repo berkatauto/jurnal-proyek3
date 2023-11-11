@@ -48,34 +48,37 @@ Kegiatan Crawling Data dilakukan untuk mendapatkan data melalui kegiatan nyata, 
 
 Langkah - Langkah crawling data :
 
-1. Identifikasi Sumber Data
+1. Definisikan Tujuan Penelitian:
+Tentukan dengan jelas tujuan dari pengumpulan data melalui crawling.
+
+2. Identifikasi Sumber Data
 Pilih sumber-sumber data yang relevan dengan tujuan penelitian Anda. Sumber data dapat berupa website, forum, media sosial, atau platform online lainnya.
 
-2. Pilih dan Persiapkan Alat Crawling
+3. Pilih dan Persiapkan Alat Crawling
 Pilih alat atau perangkat lunak crawling yang sesuai dengan kebutuhan Anda. Beberapa contoh alat termasuk Scrapy, BeautifulSoup, atau Selenium. Persiapkan alat ini dan sesuaikan dengan struktur dan tata letak sumber data.
 
-3. Lakukan Analisis Legal dan Etika
+4. Lakukan Analisis Legal dan Etika
 Pastikan bahwa pengambilan data melalui crawling tidak melanggar hak cipta atau kebijakan privasi dari sumber data yang Anda tuju. Pertimbangkan etika dalam penggunaan data dan pastikan untuk memahami dan mematuhi aturan yang berlaku.
 
-4. Identifikasi Pola URL atau Struktur Data
+5. Identifikasi Pola URL atau Struktur Data
 Pahami pola URL atau struktur data pada sumber yang akan Anda crawl. Ini membantu dalam membuat logika crawling yang efisien dan memastikan bahwa Anda mengambil data yang relevan.
 
-4. Konfigurasi Parameter Crawling:
+6. Konfigurasi Parameter Crawling:
 Atur parameter crawling, seperti batasan kecepatan crawling, kedalaman pengambilan data, dan jenis data yang ingin diambil. Hal ini membantu dalam menghindari overloading server dan memastikan efisiensi dalam pengumpulan data.
 
-5. Uji Coba Crawling
+7. Uji Coba Crawling
 Sebelum melakukan crawling penuh, uji coba alat atau skrip Anda pada sejumlah kecil data atau halaman. Pastikan bahwa pengambilan data berjalan dengan baik dan sesuai dengan yang diinginkan.
 
-Lakukan Crawling Penuh:
+6. Lakukan Crawling Penuh
 Setelah uji coba sukses, lakukan crawling penuh sesuai dengan parameter yang telah diatur. Pastikan untuk memonitor proses ini secara teratur untuk menanggapi potensi masalah.
 
-Proses Data yang Telah Dicrawl:
+7. Proses Data yang Telah Dicrawl:
 Setelah data terkumpul, proses data sesuai dengan kebutuhan penelitian Anda. Ini mungkin melibatkan pembersihan data, penggabungan, atau transformasi data untuk analisis lebih lanjut.
 
-Interpretasi dan Analisis Data:
+8. Interpretasi dan Analisis Data:
 Setelah data telah diolah, interpretasikan dan analisis hasilnya sesuai dengan tujuan penelitian Anda. Identifikasi temuan kunci dan kaitannya dengan pertanyaan penelitian.
 
-Dokumentasikan Metode dan Hasil:
+9. Dokumentasikan Metode dan Hasil:
 Pastikan untuk mendokumentasikan metode pengumpulan data secara rinci dan transparan. Ini akan membantu dalam mendukung validitas dan reproduktivitas penelitian.
 
 ## 2. Sampling Data
