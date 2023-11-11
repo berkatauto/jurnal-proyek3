@@ -69,16 +69,16 @@ Atur parameter crawling, seperti batasan kecepatan crawling, kedalaman pengambil
 7. Uji Coba Crawling
 Sebelum melakukan crawling penuh, uji coba alat atau skrip Anda pada sejumlah kecil data atau halaman. Pastikan bahwa pengambilan data berjalan dengan baik dan sesuai dengan yang diinginkan.
 
-6. Lakukan Crawling Penuh
+8. Lakukan Crawling Penuh
 Setelah uji coba sukses, lakukan crawling penuh sesuai dengan parameter yang telah diatur. Pastikan untuk memonitor proses ini secara teratur untuk menanggapi potensi masalah.
 
-7. Proses Data yang Telah Dicrawl:
+9. Proses Data yang Telah Dicrawl
 Setelah data terkumpul, proses data sesuai dengan kebutuhan penelitian Anda. Ini mungkin melibatkan pembersihan data, penggabungan, atau transformasi data untuk analisis lebih lanjut.
 
-8. Interpretasi dan Analisis Data:
+10. Interpretasi dan Analisis Data
 Setelah data telah diolah, interpretasikan dan analisis hasilnya sesuai dengan tujuan penelitian Anda. Identifikasi temuan kunci dan kaitannya dengan pertanyaan penelitian.
 
-9. Dokumentasikan Metode dan Hasil:
+11. Dokumentasikan Metode dan Hasil
 Pastikan untuk mendokumentasikan metode pengumpulan data secara rinci dan transparan. Ini akan membantu dalam mendukung validitas dan reproduktivitas penelitian.
 
 ## 2. Sampling Data
