@@ -117,6 +117,12 @@ Pada bagian berikut adalah berbagai Flowmap Arsitektur yang digunakan dalam Oper
 
 ## Proses Input Data Artikel
 
-Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses menambahkan Artikel Baru.
+Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses menambahkan Artikel Baru. Proses Input Data Artikel berlaku untuk pengelolaan satu User.
 
 ![Artikel Baru](./image/Buat%20Artikel.png)
+
+## Proses Hapus Artikel
+
+Arsitektur Flowmap berikut adalah alur pada proses penghapusan artikel. Penghapusan Artikel berlaku untuk pengelolaan satu User.
+
+![Hapus Artikel](./image/Hapus%20Artikel.png)
