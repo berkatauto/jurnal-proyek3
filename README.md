@@ -75,3 +75,9 @@ Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses SignUp.
 
 ![Flowmap SignUp](./image/Arsitektur%20Proses%20SignUp.png)
+
+## Arsitektur Dashboard
+
+
+
+### Proses Input Data Artikel
