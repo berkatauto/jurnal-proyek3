@@ -111,8 +111,12 @@ Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses SignUp.
 
 ![Flowmap SignUp](./image/Arsitektur%20Proses%20SignUp.png)
 
-## Arsitektur Dashboard
+# Arsitektur Dashboard
 
+Pada bagian berikut adalah berbagai Flowmap Arsitektur yang digunakan dalam Operasional Dashboard.
 
+## Proses Input Data Artikel
 
-### Proses Input Data Artikel
+Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses menambahkan Artikel Baru.
+
+![Artikel Baru](./image/Buat%20Artikel.png)
