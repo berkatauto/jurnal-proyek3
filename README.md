@@ -109,7 +109,7 @@ Adapun Arsitektur Proses pada aplikasi yang telah di gambarkan kedalam flowmap b
 
 Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 
-![Flowmap Login](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/5fcd5228-4b51-4dd9-90a2-380d873d1af7)
+![Flowmap Login](./image/Login.png)
 
 ## Arsitektur Proses Sign Up
 
