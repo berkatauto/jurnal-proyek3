@@ -40,7 +40,13 @@ Dalam Jurnal ini, kami pun ingin mencari tahu bagaimana perilaku masyarakat dala
 
 # Metodologi Penelitian
 
-Dalam kegiatan pembuatan jurnal, terdapat berbagai tahap yang dilakukan pada kegiatan ini.
+Pada Umumnya, Metologi dilakukan menggunakan metode waterfall, yang amat sangat mudah dipahami dan sudah banyak developer yang menggunakan metode tersebut, Berikut adalah gambaran pada metode tersebut.
+
+!["Metodologi Peneitian"](./image/metlit_waterfall.png)
+
+Gambar berikut menunjukkan gambaran umum pada metode waterfall. Didalamnya terdapat 5 tahap, yaitu Requirement, Analysis, Implement, Testing, Maintenance.
+
+adapun Dalam kegiatan pembuatan jurnal, terdapat berbagai tahap yang dilakukan pada kegiatan ini.
 
 ## 1. Tahap Pencarian Data (Crawling Data)
 
