@@ -48,10 +48,12 @@ Gambar berikut menunjukkan gambaran umum pada metode waterfall. Didalamnya terda
 adapun dalam kegiatan pembuatan jurnal, terdapat tahap yang dilakukan pada metodologi penelitian ini.
 
 Berikut penjelasan tentang Requirement, Analysis, Implement, Testing dan Maintenance :
-1. Requirement (Kebutuhan): Tahap ini adalah awal dari pengembangan perangkat lunak. Di sini, tim mengumpulkan informasi dari berbagai pihak terkait untuk memahami kebutuhan dasar pengguna, bisnis, dan teknis yang diperlukan. Fokusnya adalah memahami apa yang seharusnya dicapai oleh perangkat lunak yang akan dibuat.
-2. Analysis (Analisis): Setelah kebutuhan terkumpul, tim melakukan analisis lebih mendalam. Mereka menyusun dan merancang struktur serta fungsi perangkat lunak berdasarkan informasi yang diperoleh sebelumnya. Analisis ini mencakup cara sistem akan beroperasi, bagaimana komponen akan berinteraksi, serta rincian teknis dan fungsionalitas yang diperlukan.
-3. Implement (Implementasi): Tahap ini melibatkan proses penerjemahan desain yang telah dibuat ke dalam kode-kode pemrograman yang sesungguhnya. Tim pengembang menggunakan bahasa pemrograman dan alat yang sesuai untuk mewujudkan konsep dan rancangan yang telah dibuat sebelumnya.
-4. 
+1. Requirement (Kebutuhan) : Tahap ini adalah awal dari pengembangan perangkat lunak. Di sini, tim mengumpulkan informasi dari berbagai pihak terkait untuk memahami kebutuhan dasar pengguna, bisnis, dan teknis yang diperlukan. Fokusnya adalah memahami apa yang seharusnya dicapai oleh perangkat lunak yang akan dibuat.
+2. Analysis (Analisis) : Setelah kebutuhan terkumpul, tim melakukan analisis lebih mendalam. Mereka menyusun dan merancang struktur serta fungsi perangkat lunak berdasarkan informasi yang diperoleh sebelumnya. Analisis ini mencakup cara sistem akan beroperasi, bagaimana komponen akan berinteraksi, serta rincian teknis dan fungsionalitas yang diperlukan.
+3. Implement (Implementasi) : Tahap ini melibatkan proses penerjemahan desain yang telah dibuat ke dalam kode-kode pemrograman yang sesungguhnya. Tim pengembang menggunakan bahasa pemrograman dan alat yang sesuai untuk mewujudkan konsep dan rancangan yang telah dibuat sebelumnya.
+4. Testing (Pengujian) : Setelah implementasi, perangkat lunak diuji secara menyeluruh. Ini mencakup pengujian fungsionalitas, keamanan, kinerja, dan kompatibilitas untuk memastikan bahwa perangkat lunak dapat beroperasi sesuai dengan yang diharapkan dan memenuhi standar kualitas yang ditetapkan.
+5. Maintenance (Pemeliharaan): Setelah perangkat lunak diluncurkan, pemeliharaan menjadi penting. Ini melibatkan pembaruan rutin, perbaikan bug, peningkatan fitur, dan dukungan teknis agar perangkat lunak tetap berjalan dengan baik seiring waktu.
+
 ## 1. Tahap Pencarian Data (Crawling Data)
 
 Kegiatan Crawling Data dilakukan untuk mendapatkan data melalui kegiatan nyata, sehingga didapatkan hasil pada eksplorasi data tersebut.
