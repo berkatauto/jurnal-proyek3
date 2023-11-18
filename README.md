@@ -44,10 +44,12 @@ Pada Umumnya, Metologi dilakukan menggunakan metode waterfall, yang amat sangat 
 
 !["Metodologi Peneitian"](./image/metlit_waterfall.png)
 
-Gambar berikut menunjukkan gambaran umum pada metode waterfall. Didalamnya terdapat 5 tahap, yaitu Requirement, Analysis, Implement, Testing, Maintenance. Setiap tahap berperan dalam pengelolaan data analisis.
-
+Gambar berikut menunjukkan gambaran umum pada metode waterfall. Didalamnya terdapat 5 tahap, yaitu Requirement, Analysis, Implement, Testing, dan Maintenance. Setiap tahap berperan dalam pengelolaan data analisis.
 adapun dalam kegiatan pembuatan jurnal, terdapat tahap yang dilakukan pada metodologi penelitian ini.
 
+Berikut penjelasan tentang Requirement, Analysis, Implement, Testing dan Maintenance :
+1. Requirement (Kebutuhan): Tahap ini adalah awal dari pengembangan perangkat lunak. Di sini, tim mengumpulkan informasi dari berbagai pihak terkait untuk memahami kebutuhan dasar pengguna, bisnis, dan teknis yang diperlukan. Fokusnya adalah memahami apa yang seharusnya dicapai oleh perangkat lunak yang akan dibuat.
+2. 
 ## 1. Tahap Pencarian Data (Crawling Data)
 
 Kegiatan Crawling Data dilakukan untuk mendapatkan data melalui kegiatan nyata, sehingga didapatkan hasil pada eksplorasi data tersebut.
