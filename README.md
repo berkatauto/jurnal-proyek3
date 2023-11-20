@@ -115,7 +115,7 @@ Adapun Arsitektur Proses pada aplikasi yang telah di gambarkan kedalam flowmap b
 
 Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 
-![Flowmap Login](./image/Login.png)
+![Flowmap Login](./image/Flowchart Sign In.png)
 
 ## Arsitektur Proses Sign Up
 
