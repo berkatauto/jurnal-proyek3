@@ -97,6 +97,11 @@ Pastikan untuk mendokumentasikan metode pengumpulan data secara rinci dan transp
 
 Sampling Data dilakukan untuk menyaring data sehingga didapatkan sampel data yang sedikit namun bersifat objektif, sehingga dapat menghemat waktu dan memudahkan dalam pengumpulan hasil data.
 
+Terdapat beberapa metode sampling yang digunakan dalam pengumpulan data statistik. Beberapa di antaranya termasuk:
+
+1. Simple Random Sampling (SRS): Setiap anggota dalam populasi memiliki kesempatan yang sama untuk dipilih menjadi bagian dari sampel. Contohnya adalah jika Anda memiliki daftar lengkap dari populasi dan memilih secara acak sejumlah sampel dari daftar tersebut.
+
+2. Stratified Sampling: Populasi dibagi ke dalam sub-grup yang disebut strata, dan sampel diambil secara acak dari setiap strata. Hal ini membantu memastikan bahwa setiap sub-grup yang penting dalam populasi diwakili dengan baik dalam sampel.
 ## 3. Pengumpulan Data
 
 Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehingga dapat memudahkan dalam memvisualisasi data.
