@@ -137,4 +137,4 @@ Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses menambahkan Artike
 
 Arsitektur Flowmap berikut adalah alur pada proses penghapusan artikel. Penghapusan Artikel berlaku untuk pengelolaan satu User.
 
-![Hapus Artikel](./image/Hapus%20Artikel.png)
+![Hapus Artikel](./image/Hapus%20Artikel%204%20Baris.png)
