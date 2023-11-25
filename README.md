@@ -106,6 +106,11 @@ Terdapat beberapa metode sampling yang digunakan dalam pengumpulan data statisti
 3. Cluster Sampling: Populasi dibagi menjadi kelompok atau cluster, dan sejumlah cluster dipilih secara acak untuk menjadi bagian dari sampel. Misalnya, dalam sebuah penelitian tentang kesehatan anak-anak di sekolah, beberapa sekolah bisa dipilih secara acak untuk menjadi bagian dari sampel.
 
 4. Systematic Sampling: Anggota populasi dipilih secara teratur dalam interval yang ditentukan. Misalnya, jika Anda ingin mengambil sampel dari 100 orang dalam populasi 1000, Anda bisa memilih setiap orang ke-10 dari daftar populasi.
+
+5. Convenience Sampling: Ini melibatkan pengambilan sampel yang paling mudah diakses atau yang tersedia. Misalnya, jika Anda melakukan survei di tempat umum dan hanya mewawancarai orang-orang yang bersedia berpartisipasi.
+
+6. Snowball Sampling: Metode ini digunakan ketika anggota populasi yang sulit dijangkau, seperti kelompok minoritas atau kelompok tertentu, ditemukan melalui referensi dari anggota sampel yang sudah ada.4
+
 ## 3. Pengumpulan Data
 
 Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehingga dapat memudahkan dalam memvisualisasi data.
