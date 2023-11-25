@@ -102,6 +102,10 @@ Terdapat beberapa metode sampling yang digunakan dalam pengumpulan data statisti
 1. Simple Random Sampling (SRS): Setiap anggota dalam populasi memiliki kesempatan yang sama untuk dipilih menjadi bagian dari sampel. Contohnya adalah jika Anda memiliki daftar lengkap dari populasi dan memilih secara acak sejumlah sampel dari daftar tersebut.
 
 2. Stratified Sampling: Populasi dibagi ke dalam sub-grup yang disebut strata, dan sampel diambil secara acak dari setiap strata. Hal ini membantu memastikan bahwa setiap sub-grup yang penting dalam populasi diwakili dengan baik dalam sampel.
+
+3. Cluster Sampling: Populasi dibagi menjadi kelompok atau cluster, dan sejumlah cluster dipilih secara acak untuk menjadi bagian dari sampel. Misalnya, dalam sebuah penelitian tentang kesehatan anak-anak di sekolah, beberapa sekolah bisa dipilih secara acak untuk menjadi bagian dari sampel.
+
+4. Systematic Sampling: Anggota populasi dipilih secara teratur dalam interval yang ditentukan. Misalnya, jika Anda ingin mengambil sampel dari 100 orang dalam populasi 1000, Anda bisa memilih setiap orang ke-10 dari daftar populasi.
 ## 3. Pengumpulan Data
 
 Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehingga dapat memudahkan dalam memvisualisasi data.
