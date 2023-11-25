@@ -117,13 +117,24 @@ Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 
 ![Flowmap Login](./image/Flowchart%20Sign%20In.png)
 
-Pada Arsitektur berikut, user berada dalam situs, User dapat langsung menuju halaman login. Pada Halaman Login, user menginput Username dan Password yang dibutuhkan dalam proses login, lalu submit untuk proses login. Backend akan mencari data yang sama dengan yang diinputkan oleh user, jika ditemukan, backend akan langsung mesinkron User dengan akunnya dengan menggunakan Token sebagai sinkronisasi dan langsung mengirim user kedalam halaman dashboard. Jika tidak, user dikembalikan ke halaman login kembali dan dimunculkan popup yang memberitahu Username atau Password yang diinputkan salah.
+Pada Arsitektur berikut, user berada dalam situs, User dapat langsung menuju halaman login. Pada Halaman Login, user menginput Username dan Password yang dibutuhkan dalam proses login, lalu submit untuk proses login.
+
+Backend akan mencari data yang sama dengan yang diinputkan oleh user, jika ditemukan, backend akan langsung mesinkron User dengan akunnya dengan menggunakan Token sebagai sinkronisasi dan langsung mengirim user kedalam halaman dashboard. Jika tidak, user dikembalikan ke halaman login kembali dan dimunculkan popup yang memberitahu Username atau Password yang diinputkan salah.
 
 ## Arsitektur Proses Sign Up
 
 Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses SignUp.
 
 ![Flowmap SignUp](./image/Flowchart%20Sign%20Up.png)
+
+Pada Arsitektur berikut, user berada dalam situs, User dapat langsung menuju halaman SignUp.
+User menginput data-data seperti Fullname, Username, Password, dan satu boolean yang mengindikasi apakah user tersebut ingin menjadi jurnalis, atau hanya sekedar melihat-lihat artikel yang ada dalam situs. User dapat langsung submit untuk SignUp
+
+Jika salah satu data belum lengkap, proses tidak akan diteruskan.
+
+Jika seluruh data sudah lengkap, proses diteruskan dengan sistem mengirimkan perintah menambah user baru ke backend yang selanjutnya backend membuat akun baru dengan data yang sudah diinputkan user.
+
+Proses buat akun sudah selesai, dan user langsung dialihkan oleh sistem menuju halaman Login.
 
 # Arsitektur Dashboard
 
@@ -144,3 +155,9 @@ Pada Proses penginputan data kedalam database, setelah user mengkonfirmasinya, s
 Arsitektur Flowmap berikut adalah alur pada proses penghapusan artikel. Penghapusan Artikel berlaku untuk pengelolaan satu User.
 
 ![Hapus Artikel](./image/Hapus%20Artikel%204%20Baris.png)
+
+Pada arsitektur proses Hapus Artikel berikut, User Pertama berada dalam Dashboard. User dapat masuk kedalam daftar artikel, dan memilih salah satu artikel yang ingin dihapus. Kemudian User dapat menghapus langsung artikel tersebut, sistem akan mengirimkan konfirmasi kepada user. 
+
+Jika Tidak, proses tidak akan diteruskan. 
+
+Jika Ya, proses berlanjut pada sistem yang mengirimkan perintah penghapusan artikel yang selanjutnya diteruskan kedalam Backend. Backend akan langsung menghapus satu artikel yang tersimpan dari database dan setelahnya, Sistem akan mengembalikan user kedalam dashboard utama.
