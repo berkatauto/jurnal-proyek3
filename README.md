@@ -117,6 +117,8 @@ Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses login.
 
 ![Flowmap Login](./image/Flowchart%20Sign%20In.png)
 
+Pada Arsitektur berikut, user berada dalam situs, User dapat langsung menuju halaman login. Pada Halaman Login, user menginput Username dan Password yang dibutuhkan dalam proses login, lalu submit untuk proses login. Backend akan mencari data yang sama dengan yang diinputkan oleh user, jika ditemukan, backend akan langsung mesinkron User dengan akunnya dengan menggunakan Token sebagai sinkronisasi dan langsung mengirim user kedalam halaman dashboard. Jika tidak, user dikembalikan ke halaman login kembali dan dimunculkan popup yang memberitahu Username atau Password yang diinputkan salah.
+
 ## Arsitektur Proses Sign Up
 
 Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses SignUp.
@@ -132,6 +134,10 @@ Pada bagian berikut adalah berbagai Flowmap Arsitektur yang digunakan dalam Oper
 Pada Arsitektur Flowmap berikut, ditampilkan alur pada proses menambahkan Artikel Baru. Proses Input Data Artikel berlaku untuk pengelolaan satu User.
 
 ![Artikel Baru](./image/Tambah%20Artikel%204%20Baris.png)
+
+Pada Gambar yang ditampilkan, ditampilkan user dimulai berada dalam dashboard, mereka dapat langsung menuju Menambah Artikel Baru dan mengisi data yang diperlukan untuk artikel. Setelah dilakukan, user dapat melakukan submit artikel. Akan muncul terlebih dahulu konfirmasi untuk memastikan apakah data yang diinput user sudah benar. Jika ya, proses akan langsung dilakukan. Jika tidak, akan ditarik kembali ke halaman sebelumnya untuk mengedit artikel yang mereka buat.
+
+Pada Proses penginputan data kedalam database, setelah user mengkonfirmasinya, sistem akan mengirimkan perintah ke backend untuk menginput data yang telah user masukkan kedalam sistem. Backend kemudian menginput kedalam database, dan pada proses akhir, backend langsung mengalihkan halaman menuju tampilan hasil jadi artikel yang sudah user input kan sebelumnya.
 
 ## Proses Hapus Artikel
 
