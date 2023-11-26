@@ -115,6 +115,16 @@ Terdapat beberapa metode sampling yang digunakan dalam pengumpulan data statisti
 
 Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehingga dapat memudahkan dalam memvisualisasi data.
 
+# Hasil dan Pembahasan 
+
+1. Deskripsi Aplikasi: Penjelasan singkat tentang aplikasi yang dibangun, termasuk tujuan utama, fungsionalitas utama, dan kegunaan bagi pengguna yang dituju.
+
+2. Metodologi: Penjelasan tentang pendekatan yang digunakan dalam pembangunan aplikasi, alasan pemilihan teknologi (Go dan JavaScript), dan proses pengembangan yang diikuti.
+
+3. Fitur Utama: Rincian tentang fitur-fitur utama yang ada dalam aplikasi, seperti materi pembelajaran, interaktivitas, penggunaan teknologi Go dan JavaScript dalam implementasi, serta keunggulan yang ditawarkan.
+
+4. Evaluasi Performa: Jika ada, hasil pengujian atau evaluasi performa aplikasi. Misalnya, kecepatan, responsivitas, skala pengguna, atau feedback dari pengguna yang telah mencoba aplikasi.
+
 # Arsitektur Aplikasi
 
 Arsitektur pada aplikasi ini terdiri dari perhubungan antar komponen pengguna dengan aplikasi web yang memiliki akses dengan internet, dimana akses ini memungkinkan pengguna untuk mendapatkan informasi yang dibutuhkan dari Database terkait data pada aplikasi yang berjalan.
