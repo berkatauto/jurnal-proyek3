@@ -8,6 +8,8 @@ Quick View :
 
 [Metodologi Penelitian](#metodologi-penelitian)
 
+[Hasil dan Pembahasan](#hasil-dan-pembahasan)
+
 [Arsitektur Aplikasi](#arsitektur-aplikasi)
 
 
