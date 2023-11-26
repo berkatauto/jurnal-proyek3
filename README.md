@@ -119,7 +119,7 @@ Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehin
 
 # Hasil dan Pembahasan 
 
-# 1. Hasil
+## 1. Hasil
 
 1. Deskripsi Aplikasi: Penjelasan singkat tentang aplikasi yang dibangun, termasuk tujuan utama, fungsionalitas utama, dan kegunaan bagi pengguna yang dituju.
 
@@ -129,7 +129,7 @@ Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehin
 
 4. Evaluasi Performa: Jika ada, hasil pengujian atau evaluasi performa aplikasi. Misalnya, kecepatan, responsivitas, skala pengguna, atau feedback dari pengguna yang telah mencoba aplikasi.
 
-# 2. Pembahasan 
+## 2. Pembahasan 
 Pembahasan dari jurnal ini akan fokus pada interpretasi hasil dan implikasinya, seperti:
 
 1. Efektivitas Teknologi: Apakah penggunaan teknologi Go dan JavaScript efektif dalam membangun aplikasi pendidikan otomotif? Bagaimana kelebihan dan kekurangannya?
