@@ -119,6 +119,8 @@ Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehin
 
 # Hasil dan Pembahasan 
 
+# 1. Hasil
+
 1. Deskripsi Aplikasi: Penjelasan singkat tentang aplikasi yang dibangun, termasuk tujuan utama, fungsionalitas utama, dan kegunaan bagi pengguna yang dituju.
 
 2. Metodologi: Penjelasan tentang pendekatan yang digunakan dalam pembangunan aplikasi, alasan pemilihan teknologi (Go dan JavaScript), dan proses pengembangan yang diikuti.
@@ -126,6 +128,17 @@ Pengumpulan data dilakukan untuk menyatukan semua data kedalam satu hasil, sehin
 3. Fitur Utama: Rincian tentang fitur-fitur utama yang ada dalam aplikasi, seperti materi pembelajaran, interaktivitas, penggunaan teknologi Go dan JavaScript dalam implementasi, serta keunggulan yang ditawarkan.
 
 4. Evaluasi Performa: Jika ada, hasil pengujian atau evaluasi performa aplikasi. Misalnya, kecepatan, responsivitas, skala pengguna, atau feedback dari pengguna yang telah mencoba aplikasi.
+
+# 2. Pembahasan 
+Pembahasan dari jurnal ini akan fokus pada interpretasi hasil dan implikasinya, seperti:
+
+1. Efektivitas Teknologi: Apakah penggunaan teknologi Go dan JavaScript efektif dalam membangun aplikasi pendidikan otomotif? Bagaimana kelebihan dan kekurangannya?
+
+2. Relevansi dan Manfaat: Seberapa relevan aplikasi ini dalam konteks pendidikan otomotif? Bagaimana aplikasi ini dapat memberikan manfaat bagi pembelajar otomotif?
+
+3. Keterbatasan dan Potensi Pengembangan: Apakah ada keterbatasan tertentu dalam aplikasi ini? Bagaimana aplikasi ini bisa diperluas atau ditingkatkan di masa mendatang?
+
+4. Kesimpulan: Ringkasan dari temuan utama, apakah tujuan dari pembangunan aplikasi tercapai, dan saran untuk pengembangan selanjutnya.
 
 # Arsitektur Aplikasi
 
