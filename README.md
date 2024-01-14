@@ -14,3 +14,7 @@ rachmanurhalizastudent@gmail.com
 adam.ghafara.job@gmail.com
 ### 3Vokasi Teknik Informatika, Universitas Logistik dan Bisnis Internasional
 roni.habibi@ulbi.ac.id
+
+## ABSTRAK
+Sharing Sessions With Automotive Learning Applications untuk menyelidiki bagaimana mengintegrasikan tema aplikasi pendidikan otomotif dapat meningkatkan keterlibatan pengguna selama sesi berbagi. Penelitian ini bertujuan untuk mengeksplorasi dampak pengintegrasian topik pembelajaran otomotif terhadap efektivitas sharing session, dengan dukungan teknologi JSDELIVR dan fungsi Golang untuk meningkatkan performa dan daya tanggap. Melalui pendekatan ini, penelitian ini menciptakan lingkungan berbagi yang kreatif dan efektif. Hasil uji coba menunjukkan peningkatan yang signifikan dalam keterlibatan pengguna dan waktu respons, menyoroti potensi penerapan topik otomotif dan teknologi baru untuk meningkatkan pengalaman berbagi sesi. Hasil ini memberikan wawasan berharga bagi pengembang aplikasi, manajer TI, dan peneliti yang tertarik  merancang platform berbagi yang dinamis dan efisien.
+Kata Kunci: Aplikasi Pendidikan Otomotif, JSDELIVR, Golang
