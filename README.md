@@ -4,7 +4,6 @@ JURNAL MERPATI
 Media Publikasi Pengabdian Kepada Masyarakat Universitas Logistik dan Bisnis Internasional
 https://ejurnal.ulbi.ac.id/index.php/merpati 
 
-
 # SHARING SESSION WITH AUTOMOTIVE LEARNING APPLICATION THEMES, JSDELIVR AND GOLANG FUNCTIONS
 
 ## Rachma Nurhaliza Parindra1, Adam Ghafara2, Roni Habibi3
