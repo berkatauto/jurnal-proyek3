@@ -101,3 +101,9 @@ Sharing Session with Automotive Learning Application Themes, Jsdelivr and Golang
 ## 5. UCAPAN TERIMA KASIH
 
 Kami mengucapkan terima kasih yang sebesar-besarnya kepada semua pihak yang telah berkontribusi terhadap keberhasilan penelitian ini. Terima kasih kepada seluruh peserta sharing session yang telah berpartisipasi aktif dan berbagi ilmunya pada topik aplikasi pembelajaran otomotif. Penggunaan platform JSDELIVR dan penerapan fungsi Golang telah membuka peluang baru yang menarik dalam mengembangkan aplikasi pembelajaran kami. Kami juga mengucapkan terima kasih  kepada rekan-rekan, dosen pembimbing dan semua pihak atas dukungan dan bimbingannya selama proses penelitian. Kontribusi semua pihak  menjadi landasan kokoh untuk mencapai hasil positif dalam penelitian ini. Hasil penelitian ini diharapkan dapat membawa manfaat yang berarti bagi perkembangan dunia pendidikan khususnya dalam konteks pembelajaran otomotif. Terima kasih atas kerja sama dan dukungan Anda yang luar biasa.
+
+## REFERENSI 
+
+Hartatik, H. R. (2023). TREN TECHNOPRENEURSHIP: Strategi & Inovasi Pengembangan Bisnis Kekinian dengan Teknologi Digital. Kota Jambi: PT. Sonpedia Publishing Indonesia.
+
+Priyowidodo, G. (2022). Monograf Netnografi Komunikasi: Aplikasi pada Tiga Riset Lapangan. Kota Depok: PT. RajaGrafindo Persada-Rajawali Pers.
