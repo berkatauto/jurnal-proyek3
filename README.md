@@ -28,7 +28,7 @@ Evolusi teknologi di era digital telah menciptakan inovasi besar dalam industri 
 
 Melalui penelitian ini, kami berharap dapat membuka pandangan yang lebih luas tentang penggunaan aplikasi pembelajaran dalam konteks otomotif, serta bagaimana platform seperti JSDELIVR dan peran fungsi dalam bahasa pemrograman Golang dapat memberikan solusi yang efektif dan efisien. Landasan teoretis dari tinjauan ini akan mencakup perkembangan terkini dalam teknologi pembelajaran otomotif, mengeksplorasi kebutuhan untuk meningkatkan kemampuan beradaptasi industri, dan menyelidiki kontribusi spesifik dari platform dan fitur yang akan diperkenalkan. Kami berharap ulasan ini tidak hanya  memberikan gambaran umum mengenai pemanfaatan teknologi dalam konteks otomotif namun juga  memberikan landasan yang kuat bagi para praktisi, peneliti dan perencana kebijakan untuk memperluas pendekatan mereka dalam mengembangkan aplikasi pembelajaran  berdampak pada industri otomotif.
 
-## 2. Metode Pelaksanaan 
+## 2. METODE PELAKSANAAN 
 
 Metode pelaksanaan PKM ini dilakukan dengan melaksanakan zoom meeting dengan penjelesan sebagai berikut:
 
@@ -82,7 +82,7 @@ Siapkan kuesioner evaluasi yang memuat pertanyaan terkait isi dokumen, penyajian
 
 Minta peserta untuk memberikan umpan balik langsung mengenai sesi berbagi. Doronglah mereka untuk berbagi saran untuk perbaikan atau pertanyaan tambahan.
 
-## Hasil Dan Pembahasan
+## 3. Hasil Dan Pembahasan
 
 Berikut adalah kegiatan pkm yang telah dilakukan pada tanggal 03 desember 2023 :
 
@@ -94,3 +94,6 @@ Berikut adalah kegiatan pkm yang telah dilakukan pada tanggal 03 desember 2023 :
 
 ### 3.4 Keberhasilan Kegiatan
 
+## 4. KESIMPULAN
+
+Sharing Session with Automotive Learning Application Themes, Jsdelivr and Golang Functions membahas pengalaman berbagi ilmu pada sesi bertema aplikasi pembelajaran otomotif. Dalam konteks ini, penelitian menyoroti penggunaan platform JSDELIVR dan fungsi Golang dalam mengembangkan aplikasi pembelajaran otomotif. Hasilnya menunjukkan bahwa pemanfaatan teknologi ini dapat memperkaya pengalaman belajar khususnya dalam konteks industri otomotif. Sesi berbagi pengetahuan  memberikan wawasan  tentang bagaimana mengintegrasikan konsep pembelajaran dengan teknologi terkini, dengan fokus khusus pada aplikasi otomotif. Implikasinya adalah hasil  penelitian ini dapat memberikan referensi berharga bagi pengembang dan praktisi yang tertarik untuk meningkatkan metode pembelajaran di bidang otomotif dengan menggunakan alat Teknologi seperti fungsionalitas JSDELIVR dan  Golang.
