@@ -82,3 +82,15 @@ Siapkan kuesioner evaluasi yang memuat pertanyaan terkait isi dokumen, penyajian
 
 Minta peserta untuk memberikan umpan balik langsung mengenai sesi berbagi. Doronglah mereka untuk berbagi saran untuk perbaikan atau pertanyaan tambahan.
 
+## Hasil Dan Pembahasan
+
+Berikut adalah kegiatan pkm yang telah dilakukan pada tanggal 03 desember 2023 :
+
+### 3.1 Pembagian Poster PKM
+
+### 3.2 Kegiatan Pembahasan materi
+
+### 3.3 Pengisian kuisoner partisipan
+
+### 3.4 Keberhasilan Kegiatan
+
