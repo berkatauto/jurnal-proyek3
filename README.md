@@ -106,10 +106,13 @@ Gambar 3. Pemateri Rachma Menyampaikan Materi
 
 ![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/12490746-41e4-4190-945c-f07f4c77f476)
 
+Gambar 4. Pengisian Kuesioner oleh Para Peserta
 
 ### 3.4 Keberhasilan Kegiatan
 
 Webinar kami yang dihadiri oleh 11 peserta dari kampus yang sama, dan mendapatkan keberhasilan dalam webinar. Terdapat beberapa indikator keberhasilan yang mencerminkan dampak positif dari kegiatan ini:
+
+Tabel 1. Tabel Indikator Keberhasilan
 
 ![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/b4f5a8ce-cf5f-4fe2-86eb-f171fbe9d3d6)
 
