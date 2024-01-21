@@ -86,6 +86,8 @@ Minta peserta untuk memberikan umpan balik langsung mengenai sesi berbagi. Doron
 
 Berikut adalah kegiatan pkm yang telah dilakukan pada tanggal 03 desember 2023 :
 
+
+
 ### 3.1 Pembagian Poster PKM
 
 ### 3.2 Kegiatan Pembahasan materi
@@ -93,6 +95,9 @@ Berikut adalah kegiatan pkm yang telah dilakukan pada tanggal 03 desember 2023 :
 ### 3.3 Pengisian kuisoner partisipan
 
 ### 3.4 Keberhasilan Kegiatan
+
+Webinar kami yang dihadiri oleh 11 peserta dari kampus yang sama, dan mendapatkan keberhasilan dalam webinar. Terdapat beberapa indikator keberhasilan yang mencerminkan dampak positif dari kegiatan ini:
+
 
 ## 4. KESIMPULAN
 
