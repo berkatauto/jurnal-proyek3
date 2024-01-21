@@ -86,18 +86,26 @@ Minta peserta untuk memberikan umpan balik langsung mengenai sesi berbagi. Doron
 
 Berikut adalah kegiatan pkm yang telah dilakukan pada tanggal 03 desember 2023 :
 
-
-
 ### 3.1 Pembagian Poster PKM
+
+![Poster PKM](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/e2cb74d1-85f7-4a58-91b4-95f779ff6ae1)
 
 ### 3.2 Kegiatan Pembahasan materi
 
+![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/f9546617-48d6-4fda-8297-8e354b1322db)
+
+![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/bdd5bb17-ce59-46ec-80e6-421094e81588)
+
 ### 3.3 Pengisian kuisoner partisipan
+
+![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/12490746-41e4-4190-945c-f07f4c77f476)
+
 
 ### 3.4 Keberhasilan Kegiatan
 
 Webinar kami yang dihadiri oleh 11 peserta dari kampus yang sama, dan mendapatkan keberhasilan dalam webinar. Terdapat beberapa indikator keberhasilan yang mencerminkan dampak positif dari kegiatan ini:
 
+![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/b4f5a8ce-cf5f-4fe2-86eb-f171fbe9d3d6)
 
 ## 4. KESIMPULAN
 
