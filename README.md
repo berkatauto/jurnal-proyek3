@@ -90,6 +90,8 @@ Berikut adalah kegiatan pkm yang telah dilakukan pada tanggal 03 desember 2023 :
 
 ![Poster PKM](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/e2cb74d1-85f7-4a58-91b4-95f779ff6ae1)
 
+Gambar 1. Poster PKM
+
 ### 3.2 Kegiatan Pembahasan materi
 
 ![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/f9546617-48d6-4fda-8297-8e354b1322db)
