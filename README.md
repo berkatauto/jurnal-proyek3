@@ -96,7 +96,11 @@ Gambar 1. Poster PKM
 
 ![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/f9546617-48d6-4fda-8297-8e354b1322db)
 
+Gambar 2. Pemateri Adam Menyampaikan Materi
+
 ![image](https://github.com/berkatauto/jurnal-proyek3/assets/98588309/bdd5bb17-ce59-46ec-80e6-421094e81588)
+
+Gambar 3. Pemateri Rachma Menyampaikan Materi
 
 ### 3.3 Pengisian kuisoner partisipan
 
